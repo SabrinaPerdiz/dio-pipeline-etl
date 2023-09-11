@@ -11,7 +11,7 @@ Para realizar a tradução, utilizei a biblioteca googletrans.
 >OBS: Por não se tratar de um recurso oficial fornecido pelo Google e sim criada a partir da API oficial, acaba tendo alguns erros em termos de tradução/grafia, no entanto, o resultado é satisfatório e os problemas podem ser relevados por não serem o foco deste projeto.
 
 ### Processo ETL
-<b>Extração:</b> feita ao chamar o endpoint https://favqs.com/api/quotes' para obter as frases do tema informado
+<b>Extração:</b> feita ao chamar o endpoint https://favqs.com/api/quotes para obter as frases do tema informado
 
 <b>Transformação:</b> tradução das frases para o português
 
