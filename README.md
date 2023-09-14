@@ -2,6 +2,7 @@
 
 ### Apresentação
 Em meu projeto utilizando o processo ETL, criei um script para traduzir para o português frases aleatórias dentro de um tema definido pelo usuário. O objetivo é retornar citações creditadas para serem usadas em redações, publicidades, etc.
+Projeto parte do Bootcamp Santander 2023
 
 ### Ferramentas
 Para obter as frases de acordo com o tema utilizei a API do site FavQs, que disponibiliza a ferramenta gratuitamente, necessitando somente um cadastro informando o e-mail.
